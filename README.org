@@ -1,0 +1,5 @@
+* New day
+
+#+begin_src bash
+  cargo new <day> --vcs none
+#+end_src
